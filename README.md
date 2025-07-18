@@ -67,19 +67,19 @@ Retrieve customer first name, last name, and email ID.
 ![Rating Count](https://github.com/Rohitbujurke/Maven_movies_Rental_DA/blob/main/Code_Output/4.jpeg)
 
 ### 5. Most Prevalent Rating per Store
-![Rating per Store](https://github.com/Rohitbujurke/Maven_movies_Rental_DA/blob/main/Code_Output/1.jpeg)
+![Rating per Store](https://github.com/Rohitbujurke/Maven_movies_Rental_DA/blob/main/Code_Output/5.jpeg)
 
 ### 6. List of Films by Name, Category, and Language
-![Film List](https://github.com/Rohitbujurke/Maven_movies_Rental_DA/blob/main/Code_Output/1.jpeg)
+![Film List](https://github.com/Rohitbujurke/Maven_movies_Rental_DA/blob/main/Code_Output/6.jpeg)
 
 ### 7. Movie Rental Frequency
-![Rental Popularity](https://github.com/Rohitbujurke/Maven_movies_Rental_DA/blob/main/Code_Output/1.jpeg)
+![Rental Popularity](https://github.com/Rohitbujurke/Maven_movies_Rental_DA/blob/main/Code_Output/7.jpeg)
 
 ### 8. Top 10 Grossing Films
-![Revenue per Film](https://github.com/Rohitbujurke/Maven_movies_Rental_DA/blob/main/Code_Output/1.jpe)
+![Revenue per Film](https://github.com/Rohitbujurke/Maven_movies_Rental_DA/blob/main/Code_Output/8.jpe)
 
 ### 9. Highest Spending Customer
-![Most Spending Customer](https://github.com/Rohitbujurke/Maven_movies_Rental_DA/blob/main/Code_Output/1.jpeg)
+![Most Spending Customer](https://github.com/Rohitbujurke/Maven_movies_Rental_DA/blob/main/Code_Output/9.jpeg)
 
 ### 10. Store with Most Revenue
 ![Highest Revenue Store](https://github.com/Rohitbujurke/Maven_movies_Rental_DA/blob/main/Code_Output/10.jpeg)
