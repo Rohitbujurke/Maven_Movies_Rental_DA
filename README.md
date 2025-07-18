@@ -64,7 +64,7 @@ Retrieve customer first name, last name, and email ID.
 ![Total Movies per Rental Rate](https://github.com/Rohitbujurke/Maven_movies_Rental_DA/blob/main/Code_Output/3.jpeg)
 
 ### 4. Most Common Movie Rating
-![Rating Count](https://github.com/Rohitbujurke/Maven_movies_Rental_DA/blob/main/Code_Output/1.jpeg)
+![Rating Count](https://github.com/Rohitbujurke/Maven_movies_Rental_DA/blob/main/Code_Output/4.jpeg)
 ### 5. Most Prevalent Rating per Store
 ![Rating per Store](https://github.com/Athu087/Movies_rental/blob/d5bf4597456956ee94bc974f6f54cd4122f0b2ff/images/rating_to_store.png)
 
